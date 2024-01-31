@@ -68,4 +68,3 @@ Encapsulation: Made the reverseAndSplitText method private, as it's only used in
 ### Result with 4
 ![Result with 4](images/Exercice2With4.png)
 
-Good luck and have fun! --> Thanks
